@@ -10,31 +10,25 @@ body {
 }
 
 
-ul li a{
-    text-decoration: none;
-    cursor: pointer;
-}
+/* ul li a{ */
+    /* text-decoration: none; */
+    /* cursor: pointer; */
+
 
 
 /* phone */
-@media (max-width:599px) {
-    ul li a{
-        di
-        
-    
-}
+/* @media (max-width:599px) { */
+    /* ul li a{ */
+    /* } */
 
 /* large phone and tablet */
-@media (min-width:600px) and (max-width:767px) {
-    
-}
+/* @media (min-width:600px) and (max-width:767px) { */
 
 /* laptop */
-@media (min-width:768px) and (max-width:1199px) {
+/* @media (min-width:768px) and (max-width:1199px) { */
+/* laptop */
+/* @media (min-width:768px) and (max-width:1199px) { */
+/* @media (max-width:1200px) { */
     
-}
-
 /* desktop */
-@media (max-width:1200px) {
-    
-}
+/* @media (max-width:1200px) { */
